@@ -1,0 +1,140 @@
+{
+    "Category": {
+        "accuracy": 0.8586,
+        "classification_report": {
+            "Education": {
+                "precision": 0.900497512437811,
+                "recall": 0.9282051282051282,
+                "f1-score": 0.9141414141414141,
+                "support": 195.0
+            },
+            "Electricity": {
+                "precision": 0.8360655737704918,
+                "recall": 0.85,
+                "f1-score": 0.8429752066115702,
+                "support": 120.0
+            },
+            "Health": {
+                "precision": 0.8633540372670807,
+                "recall": 0.9788732394366197,
+                "f1-score": 0.9174917491749175,
+                "support": 142.0
+            },
+            "Roads / Infrastructure": {
+                "precision": 0.953125,
+                "recall": 0.8652482269503546,
+                "f1-score": 0.9070631970260223,
+                "support": 141.0
+            },
+            "Sanitation": {
+                "precision": 0.9175257731958762,
+                "recall": 0.689922480620155,
+                "f1-score": 0.7876106194690266,
+                "support": 129.0
+            },
+            "Water Supply": {
+                "precision": 0.6938775510204082,
+                "recall": 0.7906976744186046,
+                "f1-score": 0.7391304347826086,
+                "support": 129.0
+            },
+            "accuracy": 0.8586448598130841,
+            "macro avg": {
+                "precision": 0.8607409079486114,
+                "recall": 0.8504911249384771,
+                "f1-score": 0.8514021035342597,
+                "support": 856.0
+            },
+            "weighted avg": {
+                "precision": 0.865400480015956,
+                "recall": 0.8586448598130841,
+                "f1-score": 0.858112074430996,
+                "support": 856.0
+            }
+        }
+    },
+    "Sentiment": {
+        "accuracy": 0.9825,
+        "classification_report": {
+            "Friendly": {
+                "precision": 1.0,
+                "recall": 0.9719626168224299,
+                "f1-score": 0.985781990521327,
+                "support": 214.0
+            },
+            "Negative": {
+                "precision": 0.9451476793248945,
+                "recall": 0.9955555555555555,
+                "f1-score": 0.9696969696969697,
+                "support": 225.0
+            },
+            "Neutral": {
+                "precision": 1.0,
+                "recall": 0.9658536585365853,
+                "f1-score": 0.9826302729528535,
+                "support": 205.0
+            },
+            "Positive": {
+                "precision": 0.9906103286384976,
+                "recall": 0.9952830188679245,
+                "f1-score": 0.9929411764705882,
+                "support": 212.0
+            },
+            "accuracy": 0.9824766355140186,
+            "macro avg": {
+                "precision": 0.983939501990848,
+                "recall": 0.9821637124456237,
+                "f1-score": 0.9827626024104346,
+                "support": 856.0
+            },
+            "weighted avg": {
+                "precision": 0.9832565625227369,
+                "recall": 0.9824766355140186,
+                "f1-score": 0.9825723125239273,
+                "support": 856.0
+            }
+        }
+    },
+    "Priority": {
+        "accuracy": 0.757,
+        "classification_report": {
+            "High": {
+                "precision": 0.5126050420168067,
+                "recall": 0.7349397590361446,
+                "f1-score": 0.6039603960396039,
+                "support": 166.0
+            },
+            "Low": {
+                "precision": 0.753731343283582,
+                "recall": 0.9308755760368663,
+                "f1-score": 0.8329896907216495,
+                "support": 217.0
+            },
+            "Medium": {
+                "precision": 0.9150326797385621,
+                "recall": 0.7407407407407407,
+                "f1-score": 0.8187134502923976,
+                "support": 189.0
+            },
+            "Urgent": {
+                "precision": 0.934010152284264,
+                "recall": 0.647887323943662,
+                "f1-score": 0.7650727650727651,
+                "support": 284.0
+            },
+            "accuracy": 0.7570093457943925,
+            "macro avg": {
+                "precision": 0.7788448043308037,
+                "recall": 0.7636108499393535,
+                "f1-score": 0.755184075531604,
+                "support": 856.0
+            },
+            "weighted avg": {
+                "precision": 0.8023974277881384,
+                "recall": 0.7570093457943925,
+                "f1-score": 0.7628898317933419,
+                "support": 856.0
+            }
+        }
+    }
+}

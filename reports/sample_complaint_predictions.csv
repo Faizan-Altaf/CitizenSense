@@ -1,0 +1,9 @@
+﻿Complaint,Predicted Category,Predicted Sentiment,Predicted Priority,Category Confidence (%),Sentiment Confidence (%),Priority Confidence (%)
+Hamari gali mein pani nahi aa raha.,Water Supply,Negative,High,87.47,74.67,50.13
+Bijli kal raat se band hai aur ghar walay pareshan hain.,Electricity,Negative,High,77.79,84.99,80.37
+"Sarak par bohat gehre gadday hain, accident ka khatra hai.",Roads / Infrastructure,Negative,Urgent,90.85,66.6,40.48
+Kachra teen din se nahi uthaya gaya.,Sanitation,Negative,Medium,59.06,69.24,70.25
+Hospital mein emergency ke waqt doctor available nahi tha.,Health,Negative,Urgent,93.44,62.48,43.76
+School ki building ki chhat se pani tapak raha hai.,Education,Negative,High,43.46,64.64,38.99
+"Aap ki team ne hamari gali ka masla hal kar diya, bohat shukriya.",Roads / Infrastructure,Positive,Low,50.03,79.53,69.01
+Meherbani karke street light repair kar dein.,Electricity,Friendly,Medium,83.37,43.29,48.58

@@ -1,0 +1,7 @@
+streamlit>=1.35
+pandas
+numpy
+joblib
+altair
+# Use the SAME scikit-learn version you trained with (run: pip show scikit-learn)
+scikit-learn

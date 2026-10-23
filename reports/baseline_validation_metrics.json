@@ -1,0 +1,10 @@
+{
+    "task": "category_classification",
+    "model": "TF-IDF + Logistic Regression",
+    "validation_samples": 1007,
+    "accuracy": 0.843098311817279,
+    "macro_precision": 0.8382704161157638,
+    "macro_recall": 0.856978848051578,
+    "macro_f1": 0.8450378192901792,
+    "weighted_f1": 0.8431107698203784
+}

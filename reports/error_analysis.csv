@@ -1,0 +1,345 @@
+﻿Task,Text,Actual,Predicted
+Category,"nala saaf ho gaya hai, shukriya, hum sab is baat par ittefaq karte hain, pehle bhi is ka zikr kiya ja chuka hai.",Sanitation,Water Supply
+Category,"shukriya, line markings dobara ho gayi hain, mohalle ke baqi log bhi yehi keh rahe hain, yeh sab ek hi ilaqe ki baat hai",Roads / Infrastructure,Sanitation
+Category,"Line markings dobara ho gayi hain. sab ne bohat acha kaam kiya, hum khush hain, aas paas ke log bhi dekh rahe hain.",Roads / Infrastructure,Health
+Category,"Respected sir, transformer se bohat tez awaaz aa rahi hai. aap ki madad ka intezar rahega, jazakAllah, aas paas ke log bhi dekh rahe hain, hum sab is baat par ittefaq karte hain",Electricity,Health
+Category,"Kia aap bata sakte hain ke skool ki building mn aag lag gayi, to kis se rabta karun?",Education,Electricity
+Category,"gali number 5 mein pani ki motor chalane ke liye bijli nahi hai, ye shikayat kahan darj karwani hai",Electricity,Water Supply
+Category,"spray ho gaya he, acha kaam hua, par naaly ka ek hissa abhi bhi bnd he, baqi tafseel aap ke pas mojood he, mohalle ke baqi log bhi yehi keh rahe hn",Sanitation,Health
+Category,"Shukriyah, spray ho gya hy, yeh ittila aap ko dena zaroori tha, baqi tafseel aap ke pas mojood he.",Sanitation,Health
+Category,"pani ki motor chalane ke liye bijli nahi hai bazaar ke qareeb, aap ki meherbani hogi, is baray mein aap se rabta kiya hai, yeh ittila aap ko dena zaroori tha",Electricity,Water Supply
+Category,"kitabein mil gyi hain, shukriya, mohalay ke baqi lug bhi yehi keh rahe hein, yeh ittila aap ko dena zaroori tha, baqi tafseel aap ke pas mojood hai",Education,Health
+Category,"Spray ho gaya hai, aap ki mehnat ka shukriya, aas paas ke log bhi dekh rahe hain, pehle bhi is ka zikr kiya ja chuka hai.",Sanitation,Water Supply
+Category,"kitabein mil gayi hain. bohat acha kaam kiya, yeh ittila aap ko dena zaroori tha, baqi tafseel aap ke pas mojood hai.",Education,Health
+Category,peene ke pany sy bimar hone wale bachon ko hospital le jana para. adhikari kuch nahi karte.,Water Supply,Education
+Category,"bazaar ke qareeb kai mahino sy road ke gaddhe me gir kar ek shakhs ki jaan chali gyi, iska status kia hy, yeh sab ek hi ilaqe ki baat hy",Roads / Infrastructure,Water Supply
+Category,"Hello sir, ganda pani peene se bachon ko ulti dast ho rahe hain aur hospital le jana para. aap ka ehsan hoga agar yeh masla hal ho jaye, aap ka bohat shukriya.",Sanitation,Water Supply
+Category,"Janab-e-aali! transformer se bohat tez awaaz aa rahi hai hamare mohalle mein. Allah aap ko jaza de, aas paas ke log bhi dekh rahe hain",Electricity,Sanitation
+Category,hamari gali mein aaj subah se peene ke pani se bimar hone wale bachon ko hospital le jana para,Water Supply,Education
+Category,masjid ke saamne ganda pani peene se bachon ko ulti dast ho rahe hain aur hospital le jana para. is par foran dhyan dein.,Sanitation,Water Supply
+Category,"Chowk ki railing par zang lag gaya hai! fori action lein, yeh sab ek hi ilaqe ki baat hai, mohalle ke baqi log bhi yehi keh rahe hain.",Roads / Infrastructure,Electricity
+Category,"hamari colony mein kal raat se operation ke liye teen mahine ka waqt diya gaya hai, iska status kya hai, yeh ittila aap ko dena zaroori tha",Health,Electricity
+Category,"ab nala saaf ho gaya hai, hm aap ke mashkoor hein, baqi tafseel aap ke pas mojood he.",Sanitation,Health
+Category,"ganda paani peene sy bachon ko ulti dast ho rahe hain aor hospitel le jana para. kab tak aisa chalega, yeh ittila aap ko dena zaroori tha.",Sanitation,Water Supply
+Category,"Salam, peene ke pani se bimar hone wale bachon ko hospital le jana para. aap se guzarish hai ke jaldi hal karein, aap ka waqt dene ka shukriya",Water Supply,Education
+Category,"gali number 5 me line markings dobara ho gayi hain. bht acha kaam kiya, baqi tafseel aap ke pas mojood hai, mohalle ke baqi lug bhi yehi keh rahe hain.",Roads / Infrastructure,Sanitation
+Category,"Washroom ban gaye hein. sab ne bohat acha kaam kiya, hm khush hein, baqi tafseel aap ke pas mojood hai, yeh ittila aap ko dena zaroori tha",Education,Roads / Infrastructure
+Category,"yeh masla hai ke pipe phat gayi aur bijli ke taar pani mein hain. log bohat naraz hain, hum sab is baat par ittefaq karte hain.",Water Supply,Electricity
+Category,"nala saaf ho gaya hai. sab ne bohat acha kaam kiya, hum khush hain, aas paas ke log bhi dekh rahe hain.",Sanitation,Health
+Category,"spray ho gaya hai. sab ne bohat acha kaam kiya, hum khush hain, is baray mein aap se rabta kiya hai.",Sanitation,Health
+Category,"hamare area mein safai wale hafte mein sirf ek baar aate hain, kis department ko batana chahiye, baqi tafseel aap ke pas mojood hai.",Sanitation,Health
+Category,"Nala saaf ho gya he. boht acha kaam kiya, yeh ittila aap ko dena zaroori tha, is baray main aap sy rabta kiya hy, aas paas ke lug bhi dekh rahe hain.",Sanitation,Water Supply
+Category,"Bohat shukriya, spray ho gaya hai, is baray mein aap se rabta kiya hai, hum sab is baat par ittefaq karte hain.",Sanitation,Water Supply
+Category,"doosri gali ko zyada paani milta hy, is par kb tak amal hoga, pehle bhi is k zikr kiya ja chuka hy, baqi tafseel aap ke pas mojood he.",Water Supply,Electricity
+Category,masjid ke saamne skool ky chhat gir gyi or ek bache ky maut ho gayi. kia koi helpline number hai?,Education,Water Supply
+Category,"skool ki chhat gir gyi aor ek bache ki maut ho gyi! jldi kuch karein, aas paas ke lug bhi dekh rahe hein.",Education,Water Supply
+Category,"hamari gali mein pani ki motor chalane ke liye bijli nahi hai, ye shikayat kahan darj karwani hai?",Electricity,Water Supply
+Category,"Dear sir, peene ke pani sy beemar hone wale bachon ko hospitel le jana para. mehrbani karke jldi madad karein. bohat shukriya, is baray mein aap sy rabta kiya hai.",Water Supply,Education
+Category,"spray ho gaya hai, shukriya, is baray mein aap se rabta kiya hai, baqi tafseel aap ke pas mojood hai, pehle bhi is ka zikr kiya ja chuka hai.",Sanitation,Education
+Category,"nala saaf ho gaya hai. sab ne bohat acha kaam kiya, hum khush hain, yeh sab ek hi ilaqe ki baat hai.",Sanitation,Health
+Category,"Respected sir, mujhe ye batana tha ke hamare area mn road ke gaddhe me gir kar ek shakhs ki jaan chali gayi. Allah aap ko jaza de.",Roads / Infrastructure,Water Supply
+Category,"kia aap bata sakte hn ke bazaar ke qareeb pani ki motor chalane ke liye bijli nahi he, to kis sy rabta karun?",Electricity,Water Supply
+Category,"Masjid ke saamne kitabein mil gayi hain. bohat acha kaam kiya, hum sab is baat par ittefaq karte hain, yeh ittila aap ko dena zaroori tha.",Education,Health
+Category,"Ganda pani peene sy bachon ko ulti dast ho rahe hein aur hospital le jana para, is ki complaint k tracking number kahan sy milega?",Sanitation,Water Supply
+Category,"gali number 5 main aap ky team ne safai k masla hal kar diya hai, aap ky mehnat ka shukriya",Sanitation,Roads / Infrastructure
+Category,"mohalla number 3 me mahine se pani ky motor chalane ke liye bjli nahi hai, iska status kia he, muhalle ke baqi log bhi yehi keh rahe hn.",Electricity,Water Supply
+Category,"Block B mein peene ke pani se bimar hone wale bachon ko hospital le jana para. kya koi helpline number hai, baqi tafseel aap ke pas mojood hai.",Water Supply,Education
+Category,"Ab spray ho gaya hai, hum aap ke mashkoor hain, is baray mein aap se rabta kiya hai, aas paas ke log bhi dekh rahe hain.",Sanitation,Education
+Category,"gali number 5 mein nala saaf ho gaya hai. bohat acha kaam kiya, baqi tafseel aap ke pas mojood hai.",Sanitation,Health
+Category,"Hamare gaon mein operation ke liye teen mahnie ka waqt diya gaya hai, is par kab tak amal hoga?",Health,Electricity
+Category,"Hamare gaon mein nala saaf ho gaya hai. bohat acha kaam kiya, aas paas ke log bhi dekh rahe hain, mohalle ke baqi log bhi yehi keh rahe hain.",Sanitation,Water Supply
+Category,"block B mein aap ky team ne safai k masla hal kar diya he, aap ki mehnat k shukriyah, hm sab is baat par ittefaq karte hain.",Sanitation,Roads / Infrastructure
+Category,"transformer se bohat tez awaaz aa rahi hai! is par foran dhyan dein, pehle bhi is ka zikr kiya ja chuka hai, mohalle ke baqi log bhi yehi keh rahe hain.",Electricity,Health
+Category,"ab line markings dobara ho gayi hain, hum aap ke mashkoor hain, yeh ittila aap ko dena zaroori tha, aas paas ke log bhi dekh rahe hain",Roads / Infrastructure,Health
+Category,"Bohat shukriya, nala saaf ho gaya hai, yeh sab ek hi ilaqe ki baat hai, pehle bhi is ka zikr kiya ja chuka hai.",Sanitation,Education
+Category,"Behtareen kaam, mohalla number 3 main line markings dobara ho gayi hain, pehle bhi is ka zikr kiya ja chuka hai, mohalle ke baqi log bhi yehi keh rahe hein.",Roads / Infrastructure,Sanitation
+Category,"hamare mohalay mein skool ky chhat gir gayi aur ek bachay ky maut ho gayi, kya is ky ittila pehle di ja chuki hy",Education,Water Supply
+Category,"hamari colony mein do hafton se ganda pani peene se bachon ko ulti dast ho rahe hain or haspatal le jana para, baqi tafseel aap ke pas mojood hai.",Sanitation,Water Supply
+Category,"Hamare ilaqe mein hafte se transformer se bohat tez awaaz aa rahi hai. kab tak aisa chalega, yeh ittila aap ko dena zaroori tha.",Electricity,Health
+Category,"gande pani se bacho ko typhoid ho gya hai hamare muhalle mein, jazakallah, aas paas ke log bhi dekh rahe hn, yeh sab ek hi ilaqe ki baat hy.",Water Supply,Education
+Category,mahine se ganda pani peene se bachon ko ulti dast ho rahe hain aur hospital le jana para. ye sab bohat ghalat hai,Sanitation,Water Supply
+Category,"yeh masla hai ke operation ke liye teen mahine ka waqt diya gaya hai. ye bilkul bardasht nahi, yeh sab ek hi ilaqe ki baat hai.",Health,Electricity
+Category,"Washroom ban gaye hain. sab ne bohat acha kaam kiya, hum khush hain, aas paas ke log bhi dekh rahe hain, baqi tafseel aap ke pas mojood hai.",Education,Roads / Infrastructure
+Category,"shukriyah, hamare gaon main line markings dobara ho gayi hain, mohalle ke baqi lug bhi yehi keh rahe hain, is baray mn aap sy rabta kiya he",Roads / Infrastructure,Sanitation
+Category,"Transformer se bohat tez awaaz aa rahi hai! is par foran dhyan dein, baqi tafseel aap ke pas mojood hai, mohalle ke baqi log bhi yehi keh rahe hain.",Electricity,Health
+Category,Mohalla number 3 mein 2 din se sarak ke gaddhe mein gir kar ek shakhs ki jaan chali gayi. yeh masla 3 din se hai,Roads / Infrastructure,Water Supply
+Category,"Hamari colony mn pani ki motor chalane ke liye bjli nai hy. jald az jald hal karein, baqi tafseel aap ke pas mojood he, yeh ittila aap ko dena zaroori tha.",Electricity,Water Supply
+Category,"Janab-e-aali, hamare sector mein peene ke pani se bimar hone wale bachon ko hospital le jana para. aap ka ehsan hoga agar yeh masla hal ho jaye. bohat shukriya.",Water Supply,Education
+Category,"hamari gali me road k kaam mukammal ho gaya hai. bohat acha kaam kiya, pehle bhi is ka zikr kiya ja chuka hy.",Roads / Infrastructure,Electricity
+Category,Yeh masla hy ke nal ki body zang alood ho gayi he. shikayat ke bawajood koi nahi aaya.,Water Supply,Electricity
+Category,"Nala saaf ho gaya hai, shukriya, is baray mein aap se rabta kiya hai, baqi tafseel aap ke pas mojood hai, pehle bhi is ka zikr kiya ja chuka hai",Sanitation,Education
+Category,"Peene ke pani se bimar hone wale bachon ko hospital le jana para, ye shikayat kahan darj karwani hai?",Water Supply,Education
+Category,"block B mn paani mein ret aor mitti aa rhi he. jald az jald hal karein, pehle bhi is k zikr kiya ja chuka he.",Water Supply,Electricity
+Category,"Peene ke pani se bimar hone wale bachon ko hospital le jana para, kis department ko batana chahiye, yeh ittila aap ko dena zaroori tha.",Water Supply,Education
+Category,Assalam o Alaikum! school ki building mein aag lag gayi msajid ke saamne. aap ka waqt dene ka shukriya.,Education,Electricity
+Category,"Dear sir, mujhe ye batana tha ke block B me paani main ret aur mitti aa rahi hai. bohat shukriyah.",Water Supply,Sanitation
+Category,"nal ki body zang alood ho gyi hai hamare gaon me, hm sab is baat par ittefaq karte hain, baqi tafseel aap ke pas mojood he.",Water Supply,Electricity
+Category,"kia aap bata sakte hain ke skool ki building mein aag lag gayi, to kis se rabta karun?",Education,Electricity
+Category,"Assalam o Alaikum, ganda pany peene sy bachon ko ulti dast ho rahe hain or haspatal le jana para. meherbani karke jldi madad karein, aap ka waqt dene ka shukriya.",Sanitation,Water Supply
+Category,"ab nala saaf ho gaya hai, hum aap ke mashkoor hain, is baray mein aap se rabta kiya hai, aas paas ke log bhi dekh rahe hain.",Sanitation,Water Supply
+Category,Respected sir! peene ke pani se bimar hone wale bachon ko hospital le jana para mohalla number 3 mein. jazakAllah.,Water Supply,Education
+Category,"Hamare area mein aap ky team ne safai k masla hal kar diya hai, aap ky mehnat k shukria.",Sanitation,Roads / Infrastructure
+Category,"hamare ilaqe mein pani ki motor chalane ke liye bijli nahi hai. yeh masla 3 din se hai, hum sab is baat par ittefaq karte hain.",Electricity,Water Supply
+Category,"Bazaar ke qareeb line markings dobara ho gayi hain. bohat acha kaam kiya, aas paas ke log bhi dekh rahe hain, mohalle ke baqi log bhi yehi keh rahe hain",Roads / Infrastructure,Health
+Category,"kitabein mil gyi hein. sab ne bohat acha kaam kiya, hum khush hein, yeh ittila aap ko dena zaroori tha, baqi tafseel aap ke pas mojood hai.",Education,Health
+Category,"bohat shukria, sadak k kaam mukammal ho gya he, yeh ittila aap ko dena zaroori tha, baqi tafseel aap ke pas mojood hy.",Roads / Infrastructure,Electricity
+Category,"Aadab, nal ki body zang alood ho gayi hai. bara-e-karam jaldi dekh lein, aap ka waqt dene ka shukriya, pehle bhi is ka zikr kiya ja chuka hai",Water Supply,Electricity
+Category,"ganda pani peene sy bachon ko ulti dast ho rahe hain aor hospital le jana para, aap ka bahut shukriya",Sanitation,Water Supply
+Category,"hamare gaon mein peene ke pani se bimar hone wale bachon ko hospital le jana para. jaldi kuch karein, hum sab is baat par ittefaq karte hain.",Water Supply,Education
+Category,"Ab kachrah dan lag gya he, hm aap ke mashkoor hein, mohalle ke baqi log bhi yehi keh rahe hain.",Sanitation,Electricity
+Category,"Dear sir! chowk ki railing par zang lag gaya hai block B me. aap ky meherbani hogi, yeh ittila aap ko dena zaroori tha.",Roads / Infrastructure,Electricity
+Category,"Peene ke pani sy bimar hone wale bacho ko haspatal le jana para, is ky complaint k tracking number kahan sy milega?",Water Supply,Education
+Category,"hamari colony mein spray ho gaya hai, shukriya, lekin naael ka ek hissa abhi bhi band hai, aas paas ke log bhi dekh rahe hain",Sanitation,Health
+Category,"masjid ke saamne aaj subah se ganda pani peene se bachon ko ulti dast ho rahe hain aur hospital le jana para, iska status kya hai?",Sanitation,Water Supply
+Category,"Aadab, gali number 5 mein peene ke pani se beemar hone wale bacho ko hospital le jana para. aap sy guzarish hai ke jaldi hal karein. Allah aap ko khush rakhe.",Water Supply,Education
+Category,"aap ki team ne safai ka masla hal kar diya hai. sab ne bohat acha kaam kiya, hum khush hain, yeh sab ek hi ilaqe ki baat hai.",Sanitation,Roads / Infrastructure
+Category,"Assalam o Alaikum, pani ky motor chalane ke liye bijlee nahi hy. bara-e-karam jaldi dekh lein. aap k boht shukria",Electricity,Water Supply
+Category,"hamare mohalay mein kai mahino sy bijlee k bill thora late mila, is ka koi khayal nahin kar rha, mohalay ke baqi lug bhi yehi keh rahe hain.",Electricity,Water Supply
+Category,"ab spray ho gaya hai, hum aap ke mashkoor hain, pehle bhi is ka zikr kiya ja chuka hai.",Sanitation,Education
+Category,"Road ke gaddhe main gir kar ek shakhs ki jaan chali gyi, kai mahino se yehi haal he. ye bilkul bardasht nai.",Roads / Infrastructure,Water Supply
+Category,"Dear sir, mohalla number 3 mein mahine se pani ki motor chalane ke liye bijli nahi hai. Allah aap ko jaza de, hum sab is baat par ittefaq karte hain",Electricity,Water Supply
+Category,"Aadab, transformer sy bohat tez awaaz aa rahi hai. bara-e-karam jldi dekh lein, Allah aap ko jaza de, hum sab is baat par ittefaq karte hain.",Electricity,Health
+Category,"hamare area main ganda paani peene se bacho ko ulti dast ho rahe hain aur hospital le jana para, is par kab tak amal hoga?",Sanitation,Water Supply
+Category,"Hamare muhalle mn hafte se road ke gadday main gir kar ek shakhs ky jaan chali gayi, iska status kya hai",Roads / Infrastructure,Water Supply
+Category,"Hamare sector mn school k waqt thora badalna chahiye, kya is ky ittila pehle di ja chuki hai, yeh sab ek hi ilaqe ky baat he.",Education,Water Supply
+Category,"Hello sir, hamare mohalle mein ganda pani peene se bachon ko ulti dast ho rahe hain aur hospital le jana para. aap ka ehsan hoga agar yeh masla hal ho jaye. aap ka waqt dene ka shukriya.",Sanitation,Water Supply
+Category,"Dear sir, gali number 5 mein mahine sy pany me ret aur mitti aa rhi he. boht shukriya.",Water Supply,Sanitation
+Category,bazaar ke qareeb mahine se ganda pani peene se bacho ko ulti dast ho rahe hain aur hospitel le jana para. pichle kuch dinon se yeh jaari hai.,Sanitation,Water Supply
+Category,"peene ke pani se bimar hone wale bachon ko hospital le jana para! jaldi kuch karein, yeh sab ek hi ilaqe ki baat hai.",Water Supply,Education
+Category,"Skool k waqt thora badalna chahiye, kis department ko batana chahiye, mohalle ke baqi log bhi yehi keh rahe hn, aas paas ke lug bhi dekh rahe hain.",Education,Water Supply
+Category,"hamari gali mein hafte se pipe phat gayi aur bijli ke taar pani mein hain, yeh sab ek hi ilaqe ki baat hai, yeh ittila aap ko dena zaroori tha",Water Supply,Electricity
+Category,"Gali number 5 main pipe phat gyi aor bijli ke taar paani main hn, kis depatrment ko batana chahiye, is baray mein aap se rabta kiya hai",Water Supply,Electricity
+Category,"asrak ke gaddey me gir kar ek shakhs ki jaan chali gyi, jazakAllah, muhalle ke baqi log bhi yehi keh rahe hain",Roads / Infrastructure,Water Supply
+Category,"hamare mohalle mein kaafi arse se ganda pani peene se bachon ko ulti dast ho rahe hain aur hospital le jana para, iska status kya hai",Sanitation,Water Supply
+Category,"Respected sir, gande pany se bacho ko typhoid ho gaya he. aap ky madad k intezar rahega, Allah aap ko khush rakhe.",Water Supply,Health
+Category,Respected sir! ganda pani peeen se bachon ko ulti dast ho rahe hain aur hospital le jana para hamare mohalle mein. aap ki meherbani hogi.,Sanitation,Water Supply
+Category,"pipe phat gayi aor bijli ke taar pani me hn, is ki complaint ka tracking number kahan sy milega, yeh ittila aap ko dena zaroori tha.",Water Supply,Electricity
+Category,"block B mein peene ke pani se bimar hone wale bachon ko hospital le jana para, ye shikayat kahan darj karwani hai?",Water Supply,Education
+Category,"mohalla number 3 mn ganda pany peene se bachon ko ulti dast ho rahe hein aor hospital le jana para, kis department ko batana chahiye?",Sanitation,Water Supply
+Category,"transformer se bohat tez awaaz aa rahi hai. koi sunne wala nahi, baqi tafseel aap ke pas mojood hai.",Electricity,Sanitation
+Category,masjid ke saamne 3 din se sarak ke gaddhe mein gir kar ek shakhs ki jaan chali gayi. bohat pareshani hai.,Roads / Infrastructure,Water Supply
+Category,"masjid ke saamne sarak ke gaddhe mein gir kar ek shakhs ki jaan chali gayi, kis department ko batana chahiye",Roads / Infrastructure,Water Supply
+Category,"pani ki motor chalane ke liye bijli nahi hai! fori action lein, baqi tafseel aap ke pas mojood hai, is baray mein aap se rabta kiya hai.",Electricity,Water Supply
+Sentiment,kachra gari ka waqt kab hota hai?,Neutral,Negative
+Sentiment,"school ghar se bohat door hai, bus ka intezam karein",Neutral,Negative
+Sentiment,"sir, pani ke meter ki reading kab hoti hai, yeh ittila aap ko dena zaroori tha, pehle bhi is ka zikr kiya ja chuka hai.",Neutral,Negative
+Sentiment,"2 din se pani nahi aa raha hamare mohalle mein, bohat shukriya, hum sab is baat par ittefaq karte hain, pehle bhi is ka zikr kiya ja chuka hai.",Friendly,Negative
+Sentiment,"mere bhai ko cancer k ilaaj chal raha hy, lekin ambulance nahin aa rahi, bahut shukria, baqi tafseel aap ke pas mojood hy, pehle bhi is k zikr kiya ja chuka hy.",Friendly,Negative
+Sentiment,"Sir, pani ke meter ki reading kab hoti hai, yeh ittila aap ko dena zaroori tha, yeh sab ek hi ilaqe ki baat hai",Neutral,Negative
+Sentiment,"Bijli baar baar aati jaati hai, bahut shukriya, is baray me aap sy rabta kiya hai, mohalay ke baqi log bhi yehi keh rahe hain.",Friendly,Negative
+Sentiment,"imtihan ke dauran nakal ho rhi he bazaar ke qareeb, jazakAllah, is baray mein aap sy rabta kiya hai.",Friendly,Negative
+Sentiment,"sir, kachra gari kis waqt aati hai, baqi tafseel aap ke pas mojood hai, mohalle ke baqi log bhi yehi keh rahe hain",Neutral,Positive
+Sentiment,"sarak bohat tang hai, thori si marammat ho jaye to behtar hoga",Neutral,Negative
+Sentiment,"nal ki body zang alood ho gyi hai hamare gaon me, hm sab is baat par ittefaq karte hain, baqi tafseel aap ke pas mojood he.",Negative,Positive
+Sentiment,"Aadab, block B main 3 din sy kachi sarak par dhool ky wajah se saans lene mein masla hy. aap k bht shukriyah, hm sab is baat par ittefaq karte hein.",Friendly,Negative
+Sentiment,"asrak ke gaddey me gir kar ek shakhs ki jaan chali gyi, jazakAllah, muhalle ke baqi log bhi yehi keh rahe hain",Friendly,Negative
+Sentiment,"hamari colony mein kachra gari kis waqt aati hai, baqi tafseel aap ke pas mojood hai, hum sab is baat par ittefaq karte hain",Neutral,Negative
+Sentiment,"shukriya, mohalla number 3 mein kitabein mil gayi hain, yeh sab ek hi ialqe ki baat hai.",Positive,Negative
+Priority,kachra gari ka waqt kab hota hai?,Low,Medium
+Priority,"school ghar se bohat door hai, bus ka intezam karein",Low,High
+Priority,"Janab-e-aali, mujhe ye batana tha ke bazaar ke qareeb safai wale hafte mein sirf ek baar aate hain. aap ka waqt dene ka shukriya",Low,High
+Priority,"Respected sir, transformer se bohat tez awaaz aa rahi hai. aap ki madad ka intezar rahega, jazakAllah, aas paas ke log bhi dekh rahe hain, hum sab is baat par ittefaq karte hain",High,Low
+Priority,"Meri beti ko cancer ka ilaaj chal raha hai, magar OPD ka waqt bohat kam hai. kya koi helpline number hai, yeh ittila aap ko dena zaroori tha.",High,Medium
+Priority,"School mein saaf toilets ky zaroorat he hamari colony mein, yeh sab ek hi ilaqe ki baat hai.",Medium,Low
+Priority,"Yeh masla hai ke pani ki motor chalane ke liye bijli nahi hai. bohat pareshani hai, hum sab is baat par ittefaq karte hain.",High,Low
+Priority,"hamare paodsi ko shadeed khoon beh raha hai, lekin dawai hospital mein khatam hai. yeh sab hafte se chal raha hai, aas paas ke log bhi dekh rahe hain",Urgent,High
+Priority,"Mere bete ko tez jhatke aa rahe hain, jabke bistar nahi mil raha, yeh sab ek hi ilaqe ki baat hai.",Urgent,High
+Priority,"meri walida ko joron ka dard hai, jabke staff ka rawaiya bura hai! jaldi kuch karein.",Medium,High
+Priority,"Janab-e-aali, meri biwi ko shadeed khoon beh raha hai, magar emergency mein bistar nahi mil raha. meherbani karke jaldi madad karein, aap ka bohat shukriya.",Urgent,High
+Priority,"Respected sir, mujhe ye batana tha ke mohalla number 3 mein gande pani sy bacho ko typhoid ho gaya hai. aap ka waqt dene k shukriya.",Urgent,High
+Priority,hamare padosi ko seene mn shadeed dard hai aor paseena aa rha he aor operation ki tareekh bar bar taal di ja rahi hai. lug bht naraz hein.,Urgent,High
+Priority,"Bill k rang feeka chapa hy, kal raat sy yeh haal hai. ye sab bht ghalat he, aas paas ke lug bhi dekh rahe hain.",Low,High
+Priority,"Hello sir, mujhe ye batana tha ke hamare gaon me skool ky chhat girne wali hai aor bache andar hein. bohat shukria, aas paas ke lug bhi dekh rahe hein.",Urgent,High
+Priority,"pani ki motor chalane ke liye bijli nahi hai bazaar ke qareeb, aap ki meherbani hogi, is baray mein aap se rabta kiya hai, yeh ittila aap ko dena zaroori tha",High,Low
+Priority,"hamari gali mein bijli baar baar aati jaati he, lug bohat naraz hain, baqi tafseel aap ke pas mojood he, yeh sab ek hi ilaqe ki baat he.",Medium,Low
+Priority,"hamare area main ICU me jagah nai or mareez ky halat nazuk he, ye shikayet kahan darj karwani he, hm sab is baat par ittefaq karte hain.",Urgent,High
+Priority,"Aadab, masjid ke saamne kaafi arse se bijli baar baar aati jaati hai. aap ka bohat shukriya.",Medium,High
+Priority,"hamare area mein operation ke liye teen mahine ka waqt diya gya hy, kia is ky ittila pehle di ja chuki hai?",High,Urgent
+Priority,"Gande pani se bachon ko typhoid ho gaya hai! is par foran dhyan dein, yeh ittila aap ko dena zaroori tha.",Urgent,High
+Priority,"Salam, mere walid ko joron ka dard hai, jabke staff ka rawaiya bura hy. Allah aap ko jaza de, yeh ittila aap ko dena zaroori tha.",Medium,High
+Priority,"hamare ilaqe mein paani ky supply hafte se bnd hy, aas paas ke log bhi dekh rahe hain, yeh ittila aap ko dena zaroori tha.",High,Low
+Priority,"safai ka kaam acha ho raha hai, shukriya",Low,Medium
+Priority,"mere walid ko dengue mein platelets boht kam ho gaye hn, lekin ambulance nahi aa rahi. kai mahino sy yehi haal hai, pehle bhi is ka zikr kiya ja chuka hy.",Urgent,High
+Priority,"kya aap bata sakte hain ke mere dost ko shadeed khoon beh raha hai aur doctor ilaaj se inkar kar raha hai, to kis se rabta karun?",Urgent,High
+Priority,"Bazaar ke qareeb skool main saaf toilets ki zaroorat hy. kia koi helpline number hy, yeh sab ek hi ilaqe ky baat hy.",Medium,High
+Priority,kachi sarak par dhool se saans lene mein pareshani hai,Medium,Urgent
+Priority,"Respected sir, operation ke liye teen mahine ka waqt diya gaya hai. meherbani karke jaldi madad karein, Allah aap ko khush rakhe",High,Urgent
+Priority,"hamare gaon mein pani ki supply hafte se band hai, aas paas ke log bhi dekh rahe hain, yeh sab ek hi ilaqe ki baat hai.",High,Low
+Priority,"meri walida ko jild ki allergy hai aur hospital mein safai nahi hai, baqi tafseel aap ke pas mojood hai.",Medium,High
+Priority,"Respected sir! kachi sarak par dhool ky wajah se saans lene mein masla hy. jazakAllah, is baray mn aap se rabta kiya he.",Medium,Low
+Priority,"Mere bhai ko zehar kha liya hai, lekin emergency mein koi doctor mojood nahi, ye shikayat kahan darj karwani hai, aas paas ke log bhi dekh rahe hain.",Urgent,High
+Priority,masjid ke saamne kaafi arse se kachi sadak par dhool ki wajah sy saans lene mein masla hai. ye sab boht ghalat he.,Medium,High
+Priority,"staff mareezon se bohat bura sulook karta hai. log bohat naraz hain, hum sab is baat par ittefaq karte hain.",Medium,Low
+Priority,masjid ke saamne emergency mein mareez ko bistar nahi mila. is ka foran hal nikalein.,Urgent,High
+Priority,"Hamare area mein 2 din se gande pani se bacho ko typhoid ho gya hy, iska status kya hy?",Urgent,High
+Priority,"x-ray machine kharab he aor bahar sy karwana parta hai, is ky complaint ka tracking number kahan sy milega?",Medium,High
+Priority,"school ki chat girne wali hai aur bache anadr hain, baqi tafseel aap ke pas mojood hai, is baray mein aap se rabta kiya hai.",Urgent,Low
+Priority,"pani ky supply hafte se bnd hai bazaar ke qareeb, aap ka bohat shukria, aas paas ke log bhi dekh rahe hain.",High,Low
+Priority,"Ek bachay ko zehar kha liya hai, lekin test machine kharab hai. shikayat ke bawajood koi nahi aaya, aas paas ke log bhi dekh rahe hain",Urgent,Medium
+Priority,mohalla number 3 mein yeh masla hai ke bijli baar baar aati jaati hy. ye sab bohat ghalat hy.,Medium,High
+Priority,"mere bhai ko cancer k ilaaj chal raha hy, lekin ambulance nahin aa rahi, bahut shukria, baqi tafseel aap ke pas mojood hy, pehle bhi is k zikr kiya ja chuka hy.",High,Low
+Priority,"Respected sir, meri beti ko saanp ne kaat liya hy, magar test machine kharab hai. aap sy guzarish he ke jldi hal karein. aap ki mehrbani hogi.",Urgent,High
+Priority,"Ghalat dawai dene se mareez behosh ho gaya, pichle kuch dinon se yeh jaari hai. adhikari kuch nahi karte, yeh ittila aap ko dena zaroori tha.",Urgent,High
+Priority,"hamare area mein safai wale hafte mein sirf ek baar aate hain, kis department ko batana chahiye, baqi tafseel aap ke pas mojood hai.",Low,High
+Priority,"Gaddhon ki wajha se roz gaadi kharab hoti hai, kya is ki ittila pehle di ja chuki hai, pehle bhi is ka zikr kiya ja chuka hai",Medium,High
+Priority,"Assalam o Alaikum! bijli baar baar aati jaati hai hamare mohalay mein. aap ky mehrbani hogi, pehle bhi is k zikr kiya ja chuka he.",Medium,High
+Priority,"Salam! ghalat dawai dene sy mareez behosh ho gya hamare gaon me. aap k bht shukriya, hm sab is baat par ittefaq karte hn",Urgent,Low
+Priority,"kya aap bata sakte hain ke mere dost ko seene mein shadeed dard hai aur paseena aa raha hai, magar oxygen khatam hai, to kis se rabta karun",Urgent,High
+Priority,"Dear sir! transformer se bohat tez awaaz aa rahi hai. aap ka waqt dene ka shukriya, mohalle ke baqi log bhi yehi keh rahe hain.",High,Low
+Priority,Hamare mohalle mein 2 dn se skool ky chhat girne wali hy aor bache andar hain. koi sunne wala nai.,Urgent,High
+Priority,Hamari gali mein sarak par chote chote gaddhe ban gaye hain. jald az jald hal karein.,Low,Urgent
+Priority,"Bijli baar baar aati jaati hai, bahut shukriya, is baray me aap sy rabta kiya hai, mohalay ke baqi log bhi yehi keh rahe hain.",Medium,Low
+Priority,"pani ki motor chalane ke liye bijli nahi hai hamare ilaqe mein, bohat shukriya, yeh sab ek hi ilaqe ki baat hai, baqi tafseel aap ke pas mojood hai.",High,Low
+Priority,"meri biwi ko seene mein shadeed dard hai aur paseena aa raha hai, lekin khoon nahi mil raha, baqi tafseel aap ke pas mojood hai, is baray mein aap se rabta kiya hai.",Urgent,High
+Priority,"Assalam o Alaikum, school ke bahar bachon ko agwa karne ki koshish hui. bara-e-karam jaldi dekh lein, aap ka bohat shukriya, yeh sab ek hi ilaqe ki baat hai.",Urgent,Low
+Priority,"Masjid ke saamne sarak par chote chote gaddhe ban gaye hain, ye shikayat kahan darj karwani hai, hum sab is baat par ittefaq karte hain.",Low,High
+Priority,"Pani mein ret aur mitti aa rahi hai masjid ke saamne, baqi tafseel aap ke pas mojood hai, hum sab is baat par ittefaq karte hain.",High,Low
+Priority,"Hello sir, mujhe ye batana tha ke meri biwi ko saanp ne kaat liya hai, lekin ICU mein jagah nahi. Allah aap ko khush rakhe.",Urgent,High
+Priority,"pani ki motor chalane ke liye bijli nahi hai, ye shikayat kahan darj karwani hai, mohalle ke baqi log bhi yehi keh rahe hain.",High,Low
+Priority,"Aaj subah se gaddhon ki wajah se roz gaadi kharab hoti hai, iska status kya hai, pehle bhi is ka zikr kiya ja chuka hai.",Medium,High
+Priority,"hamare area mein imtihan ke dauran nakal ho rahi hai, yeh sab ek hi ilaqe ki baat hai, is baray mein aap se rabta kiya hai.",High,Low
+Priority,"bill k rang feeka chapa hy, is ky complaint k tracking number kahan se milega, aas paas ke lug bhi dekh rahe hn.",Low,Medium
+Priority,"skool ky building mn aag lag gyi. is k koi khayal nahi kar raha, aas paas ke lug bhi dekh rahe hain, yeh sab ek hi ilaqe ki baat hy.",Urgent,Low
+Priority,"Hello sir, kaafi arse se school ki chat girne wali hai aur bache andar hain. Allah aap ko jaza de, mohalle ke baqi log bhi yehi keh rahe hain.",Urgent,High
+Priority,"Respected sir, 2 din se pani nahi aa raha. aap ki madad ka intezar rahega, bohat shukriya, baqi tafseel aap ke pas mojood hai, mohalle ke baqi log bhi yehi keh rahe hain",High,Low
+Priority,"Assalam o Alaikum, ek bazurg mareez ko shadeed khoon beh raha hai, jabke doctor teen din se nahi aaye. aap ki madad ka intezar rahega, bohat shukriya.",Urgent,High
+Priority,"imtihan ke dauran nakal ho rhi he bazaar ke qareeb, jazakAllah, is baray mein aap sy rabta kiya hai.",High,Low
+Priority,"hamari gali mein transformer se bohat tez awaaz aa rahi hai, is par kab tak amal hoga",High,Medium
+Priority,"emergency mn mariz ko bistar nahin mila, is ki complaint ka tracking number kahan sy milega, yeh ittila aap ko dena zaroori tha.",Urgent,High
+Priority,"hamare padosi ko shadeed khoon beh raha hai, jabke test machine kharab hai! jald az jald hal karein, aas paas ke log bhi dekh rahe hain.",Urgent,High
+Priority,"Mere bhai ko seene main shadeed dard hy or paseena aa raha hai, lekin doctor teen din sy nahi aaye.",Urgent,High
+Priority,"Dear sir, gaddhon ki wajah se roz gaadi kharab hoti hai. aap ki madad ka intezar rahega, aap ka waqt dene ka shukriya, baqi tafseel aap ke pas mojood hai",Medium,High
+Priority,"Hamare gaon mein operation ke liye teen mahnie ka waqt diya gaya hai, is par kab tak amal hoga?",High,Urgent
+Priority,"emergency mein mareez ko bistar nahi mila hamare gaon mein, bohat shukriya, pehle bhi is ka zikr kiya ja chuka hai.",Urgent,High
+Priority,"Gali numebr 5 mein bijli baar baar aati jaati hai, kya is ki ittila pehle di ja chuki hai, pehle bhi is ka zikr kiya ja chuka hai.",Medium,Low
+Priority,hamari colony mein kai mahino se pani mein ret aur mitti aa rahi hai. yeh masla 3 din se hai.,High,Urgent
+Priority,"Aadab, ek bazurg mareez ko saans lene mein shadeed takleef hai, lekin ambulance nahi aa rahi. aap ka bohat shukriya, is baray mein aap se rabta kiya hai",Urgent,Medium
+Priority,hamari gali mein kaafi arse se x-ray machine kharab hai aur bahar se karwana parta hai. log boht naraz hn,Medium,High
+Priority,"transformer se bohat tez awaaz aa rahi hai! is par foran dhyan dein, pehle bhi is ka zikr kiya ja chuka hai, mohalle ke baqi log bhi yehi keh rahe hain.",High,Low
+Priority,"pani mein ret aur mitti aa rahi hai block B mein, aap ka waqt dene ka shukriya, aas paas ke log bhi dekh rahe hain",High,Low
+Priority,"meri behan ko joron ka dard hai, lekin hospital mein safai nahi hai, is ki complaint ka tracking number kahan se milega?",Medium,High
+Priority,"Assalam o Alaikum, mere bete ko seene mein shadeed dard hai aur paseena aa raha hai, lekin report mein bohat deir ho rahi hai. bohat shukriya.",Urgent,High
+Priority,"School ke bahar bachon ko agwa karne ki koshish hui, jazakAllah, baqi tafseel aap ke pas mojood he, aas paas ke log bhi dekh rahe hn.",Urgent,Low
+Priority,"Respected sir, ek bazurg mareez ko jild ki allergy hai, magar report mein bohat deir ho rahi hai. aap se guzarish hai ke jaldi hal karein, Allah aap ko jaza de.",Medium,High
+Priority,"Hello sir, hamari colony mein 2 din sy staff mareezon sy bohat bura sulook karta he. aap ky meharbani hogi.",Medium,High
+Priority,"gande pani se bacho ko typhoid ho gya hai hamare muhalle mein, jazakallah, aas paas ke log bhi dekh rahe hn, yeh sab ek hi ilaqe ki baat hy.",Urgent,Low
+Priority,"Hello sir, meri behan ko dengue me platelets bohat km ho gaye hain, jabke oxygen khatam hy. aap ka ehsan hoga agar yeh masla hal ho jaye, Allah aap ko jaza de",Urgent,High
+Priority,"yeh masla hai ke operation ke liye teen mahine ka waqt diya gaya hai. ye bilkul bardasht nahi, yeh sab ek hi ilaqe ki baat hai.",High,Urgent
+Priority,"school ke bahar bachon ko agwa karne ki koshish hui gali number 5 mein, aas paas ke log bhi dekh rahe hain.",Urgent,Low
+Priority,"mere walid ko saans lene mein shadeed takleef hai, magar docotr ilaaj se inkar kar raha hai, pichle kuch dinon se yeh jaari hai. bohat pareshani hai.",Urgent,High
+Priority,"janab-e-aali, meri beti ko dengue mn platelets bohat kam ho gaye hein, jabke report mn bht deir ho rahi hai. aap se guzarish hai ke jldi hal karein. aap ky meherbani hogi.",Urgent,High
+Priority,"School ki chhat girne wali hy aur bache andar hein, is ki complaint k tracking number kahan se milega?",Urgent,High
+Priority,"Salam! paani ky supply hafte sy band hy hamare area mein. aap ka bht shukriya, yeh ittila aap ko dena zaroori tha, pehle bhi is k zikr kiya ja chuka hai.",High,Low
+Priority,"school ke bahar nashe wale ghoomte hain bazaar ke qareeb, baqi tafseel aap ke pas mojood hai, yeh ittila aap ko dena zaroori tha",Urgent,Low
+Priority,"Hamare gaon me skool ki chhat girne wali hai or bache andar hein. is ka koi khayal nahi kar rha, hm sab is baat par ittefaq karte hein.",Urgent,High
+Priority,"mere dost ko saanp ne kaat liya hy or emergency main bistar nahi mil raha, shikayat ke bawajodo koi nahi aaya.",Urgent,High
+Priority,Mohalla number 3 mn kaafi arse se skool ki chat girne wali hai aur bache andar hain,Urgent,High
+Priority,"hamari gali mein aaj subah se gande pani se bachon ko typhoid ho gaya hai, iska status kya hai, pehle bhi is ka zikr kiya ja chuka hai.",Urgent,High
+Priority,"mere dost ko shadeed khoon beh raha hai, lekin test machine kharb hai, iska status kia hai, yeh ittila aap ko dena zaroori tha.",Urgent,High
+Priority,"Hamari gali mn emergency mein mariz ko bistar nahi mila, ye shikayet kahan darj karwani hy, baqi tafseel aap ke pas mojood hai, yeh sab ek hi ilaqe ki baat hy.",Urgent,High
+Priority,Respected sir! school ki chat girne wali hai aur bache andar hain. aap ka bohat shukriya.,Urgent,High
+Priority,"Dear sir, mujhe ye batana tha ke meri beti ko tez jhatke aa rahe hn, jabke doctor ilaj se inkar kar rha he. Allah aap ko jaza de",Urgent,High
+Priority,"dear sir, skool main saaf toilets ky zaroorat hy. bara-e-karam jldi dekh lein, aap ka bht shukriyah.",Medium,High
+Priority,"Ek bache ko yarqan (jaundice) hai, lekin line bohat lambi he, ye shikayat kahan darj karwani hai, is baray mein aap sy rabta kiya hai.",High,Medium
+Priority,"hamare ilaqe mein yeh masla hai ke gaddhon ki wajah se roz gaadi kharab hoti hai. log bohat naraz hain, aas paas ke log bhi dekh rahe hain.",Medium,High
+Priority,"Janab-e-aali, emergency mein mareez ko bistar nahi mila. bara-e-karam jaldi dekh lein, aap ka bohat shukriya, aas paas ke log bhi dekh rahe hain, yeh sab ek hi ilaqe ki baat hai.",Urgent,Low
+Priority,"hamare sector mein school ke bahra nashe wale ghoomte hain. kya koi helpline number hai, baqi tafseel aap ke pas mojood hai, hum sab is baat par ittefaq karte hain.",Urgent,High
+Priority,"Transformer se bohat tez awaaz aa rahi hai! is par foran dhyan dein, baqi tafseel aap ke pas mojood hai, mohalle ke baqi log bhi yehi keh rahe hain.",High,Low
+Priority,"ICU mein jagah nahi aor mareez ki halat nazuk hy gali number 5 me, bohat shukriya, hm sab is baat par ittefaq karte hain.",Urgent,Low
+Priority,"mere dost ko joron ka dard hai, jabke doctor teen din se nahi aaye, ye shikayat kahan darj karwani hai, mohalle ke baqi log bhi yehi keh rahe hain",Medium,High
+Priority,"Bazaar ke qareeb doosri gali ko zyada pani milta hai, kis department ko batana chahiye, hum sab is baat par ittefaq karte hain, yeh sab ek hi ilaqe ki baat hai.",Medium,High
+Priority,"yeh masla hy ke meri walida ko shadeed khoon beh rha he, magar operation ki tareekh bar bar taal di ja rhi hai. kb tak aisa chalega.",Urgent,High
+Priority,"Hamari colony mn pani ki motor chalane ke liye bjli nai hy. jald az jald hal karein, baqi tafseel aap ke pas mojood he, yeh ittila aap ko dena zaroori tha.",High,Low
+Priority,"Hello sir, mere walid ko tez jhatke aa rahe hain, magar oxygen khatam hai. mehrbani karke jldi madad karein. aap k waqt dene ka shukria.",Urgent,High
+Priority,"Emergency mein mareez ko bistar nahi mila, iska status kya hai, yeh ittila aap ko dena zaroori tha, baqi tafseel aap ke pas mojood hai.",Urgent,High
+Priority,zachha aurat ko bistar nahi mila,Urgent,High
+Priority,"lady doctor mojood nahi, auraton ko masla hota hai",High,Medium
+Priority,"school ki chat girne wali hai aur bache andar hain. kya koi helpline number hai, baqi tafseel aap ke pas mojood hai, yeh sab ek hi ilaqe ki baat hai.",Urgent,High
+Priority,"Dear sir! imtihan ke dauran nakal ho rahi hai hamare mohalle mein. aap ka bohat shukriya, yeh sab ek hi ilaqe ki baat hai, yeh ittila aap ko dena zaroori tha.",High,Low
+Priority,"chowk ky railing par zang lag gaya hai, is par kb tak amal hoga, is baray mein aap sy ratba kiya hy",Low,Medium
+Priority,"Aadab, gande pani se bachon ko typhoid ho gaya hai. aap se guzarish hai ke jaldi hal karein. aap ka bohat shukriya.",Urgent,High
+Priority,"hamare area mein staff mareezon se bohat bura sulook karta hai. hum tang aa chuke hain, baqi tafseel aap ke pas mojood hai.",Medium,Low
+Priority,"doosri gali ko zyada pani milta hai hamari colony mein, aap ki meherbani hogi, mohalle ke baqi log bhi yehi keh rahe hain, baqi tafseel aap ke pas mojood hai.",Medium,Low
+Priority,"mere bhai ko saans lene mein shadeed takleef hai, jabke ICU mein jagah nahi, shikayet ke bawajood koi nai aaya.",Urgent,High
+Priority,"aadab, hamare gaon mein 2 din se staff mareezon se bohat bura sulook karta hai. jazakallah, hum sab is baat par ittefaq karte hain",Medium,High
+Priority,"school ke bahar nashe wale ghoomte hain! jald az jald hal karein, aas paas ke log bhi dekh rahe hain, mohalle ke baqi log bhi yehi keh rahe hain.",Urgent,Low
+Priority,"Janab-e-aali, gaddhon ki wajah se roz gaadi kharab hoti hai. bara-e-karam jaldi dekh lein, aap ka bohat shukriya, hum sab is baat par ittefaq karte hain.",Medium,High
+Priority,"Assalam o Alaikum! hamare padosi ko seene mein shadeed dard hai aur paseena aa raha he, lekin dawai haspatal me khatam hai. jazakAllah.",Urgent,High
+Priority,"Aadab, meri walida ko joron ka dard hai, magar dawai hospital mein khatam hai. aap se guzarish hai ke jaldi hal karein. Allah aap ko khush rakhe.",Medium,High
+Priority,"Salam, hamare sector mein kaafi arse se chowk ki railing par zang lag gaya hai. Allah aap ko khush rakhe.",Low,Urgent
+Priority,"meri walida ko yarqan (jaundice) hy, lekin haspatal main safai nai hy, pehle bhi is k zikr kiya ja chuka hy",High,Medium
+Priority,"school ki building mein aag lag gayi. hum tang aa chuke hain, hum sab is baat par ittefaq karte hain, pehle bhi is ka zikr kiya ja chuka hai",Urgent,Low
+Priority,hamare area ki sarak 6 mahine se khuli hui hai aur koi sunwai nahi,High,Urgent
+Priority,"Salam, school mein saaf toilets ky zaroorat he. aap ki madad k intezar rahega, bohat shukriyah, yeh ittila aap ko dena zaroori tha, pehle bhi is k zikr kiya ja chuka hai.",Medium,Low
+Priority,"hamare ilaqe mein pani ki motor chalane ke liye bijli nahi hai. yeh masla 3 din se hai, hum sab is baat par ittefaq karte hain.",High,Low
+Priority,"Salam! doosri gali ko zyada pani milta hai gali number 5 mein. aap ka waqt dene ka shukriya, mohalle ke baqi log bhi yehi keh rahe hain.",Medium,Low
+Priority,"transformer sy bht tez awaaz aa rahi hai hamare ilaqe mein, yeh sab ek hi ilaqe ky baat hai, aas paas ke log bhi dekh rahe hn",High,Low
+Priority,"gande pani se bacho ko typhoid ho gaya hai. jald az jald hal karein, pehle bhi is k zikr kiya ja chuka he.",Urgent,High
+Priority,"Meri walida ko zehar kha liya hai, jabke emergency mein bistar nahi mil raha, hum sab is baat par ittefaq karte hain.",Urgent,High
+Priority,"Mere dost ko saans lene mein shadeed takleef hai, jabke emergency mein bistar nahi mil raha. kya koi helpline number hai, mohalle ke baqi log bhi yehi keh rahe hain",Urgent,High
+Priority,"gali number 5 mein school ki chat girne wali hai aur bache andar hain, kis department ko batana chahiye, mohalle ke baqi log bhi yehi keh rahe hain",Urgent,High
+Priority,blood bank mein khoon khatam hai,Urgent,High
+Priority,"hamari colony mein operation ke liye teen mahine ka waqt diya gaya hai. jald az jald hal karein, yeh ittila aap ko dena zaroori tha.",High,Urgent
+Priority,"school ki chat girne wali hai aur bache andar hain, is ki complaint ka tracking number kahan se milega?",Urgent,High
+Priority,"Hello sir, meri walida ko shadeed khoon beh raha hai, lekin appointment do mahine baad ka mila hai. bohat shukriya.",Urgent,High
+Priority,"bijli baar baar aati jaati hai! jald az jald hal karein, mohalle ke baqi log bhi yehi keh rahe hain.",Medium,Low
+Priority,Hamare sector mein aaj subah se gaddhon ki wajah se roz gaadi kharab hoti hai. log bohat naraz hain.,Medium,High
+Priority,"gande pani se bachon ko typhoid ho gaya hy! is ka foren hal nikalein, pehle bhi is ka zikr kiya ja chuka hy.",Urgent,High
+Priority,"Mere dost ko jild ki allergy hai aur dawai hospital mein khatam hai, kya is ki ittila pehle di ja chuki hai, baqi tafseel aap ke pas mojood hai.",Medium,High
+Priority,"mere walid ko zehar kha liya hai, magar khoon nahi mil raha. hm tang aa chuke hein, aas paas ke log bhi dekh rahe hain.",Urgent,High
+Priority,"meri beti ko jild ki allergy hai, jbake dawai mehngi he, is ki complaint k tracking number kahan se milega, aas paas ke lug bhi dekh rahe hain.",Medium,High
+Priority,"Respected sir, meri walida ko saans lene main shadeed takleef hai aor oxygen khatam hy. jazakAllah, yeh ittila aap ko dena zaroori tha, aas paas ke lug bhi dekh rahe hn.",Urgent,High
+Priority,"Ek bazurg mareez ko zehar kha liya hai aur dawai hospital mein khatam hai, kya is ki ittila pehle di ja chuki hai",Urgent,High
+Priority,"Assalam o Alaikum! gande pani se bachon ko typhoid ho gaya hai gali number 5 mein. Allah aap ko jaza de, aas paas ke log bhi dekh rahe hain.",Urgent,High
+Priority,"Hello sir, mujhe ye batana tha ke skool ky chat girne wali hai or bache andar hein. bohat shukriya, hum sab is baat par ittefaq karte hein.",Urgent,High
+Priority,"kya aap bata sakte hain ke hamare gaon mein gande pani se bachon ko typhoid ho gaya hai, to kis se rabta karun",Urgent,High
+Priority,"road par chote chote gaddhe ban gaye hn, aaj subah se yeh masla he. ye bilkul bardasht nahi",Low,Urgent
+Priority,"Sarak par chote chote gaddhe ban gaye hain hamare sector mein, aap ka bohat shukria.",Low,High
+Priority,"block B mein chowk ki railing par zang lag gaya hai, is par kab tak amal hoga?",Low,Medium
+Priority,"doosri gali ko zyada pani milta hai! jald az jald hal karein, hm sab is baat par ittefaq karte hain, is baray mein aap sy rabta kiya he.",Medium,Low
+Priority,"Hamare muhalle main pany ky supply hafte se bnd hai. is k foran hal nikalein, hm sab is baat par ittefaq karte hn",High,Low
+Priority,"Gali number 5 mein kal raat se school ke bahar nashe wale ghoomte hain. aaj subah se yeh masla hai, hum sab is baat par ittefaq karte hain.",Urgent,Low
+Priority,"Janab-e-aali! bijli baar baar aati jaati hai. aap ki meherbani hogi, mohalle ke baqi log bhi yehi keh rahe hain, yeh sab ek hi ilaqe ki baat hai.",Medium,Low
+Priority,"Skool ke bahar nashe wale ghoomte hn hamare sector mein, aap ka bohat shukriyah, baqi tafseel aap ke pas mojood hai.",Urgent,Low
+Priority,"kya aap bata sakte hein ke hamare area mein skool ky chhat girne wali hai aur bache andar hain, to kis se rabta karun?",Urgent,High
+Priority,school ki diwaron par daraar hai aur seelan hai,High,Urgent
+Priority,"hamari gali mein gaddhon ki wajah se roz gaadi kharab hoti hai. kya koi helpline number hai, pehle bhi is ka zikr kiya ja chuka hai",Medium,High
+Priority,"masjid ke saamne skool ke bahar nashe wale ghoomte hn, ye shikayat kahan darj karwani hy, yeh sab ek hi ilaqe ki baat he, baqi tafseel aap ke pas mojood he.",Urgent,Low
+Priority,"ek bachay ko tez jhatke aa rahe hn, lekin dawa hospital mn khatam hai, is ky complaint ka tracking number kahan se milega",Urgent,High
+Priority,"masjid ke saamne school ke bahar bachon ko agwa karne ki koshish hui. pichle kuch dinon se yeh jaari hai, mohalle ke baqi log bhi yehi keh rahe hain.",Urgent,Low
+Priority,"School ke bahar nashe wale ghoomte hain hamare sector mein, jazakAllah, yeh sab ek hi ilaqe ki baat hai, baqi tafseel aap ke pas mojood hai.",Urgent,Low
+Priority,"Respected sir, masjid ke saamne kaafi arse se school ki chat girne wali hai aur bache andar hain. aap ki meherbani hogi.",Urgent,High
+Priority,"Aadab, mere bete ko zehar kha liya hai, magar dawai haspatal mein khatam hai. aap ka waqt dene k shukria, pehle bhi is ka zikr kiya ja chuka hai.",Urgent,High
+Priority,masjid ke saamne yeh masla hai ke school ki chat girne wali hai aur bache andar hain. ye bilkul bardasht nahi,Urgent,High
+Priority,"Mere bhai ko tez jhatke aa rahe hain, jabke bistar nhi mil raha, yeh sab ek hi ilaqe ki baat hai.",Urgent,High
+Priority,"bijli baar baar aati jaati hai, is par kab tak amal hoga, mohalle ke baqi log bhi yehi keh rahe hain.",Medium,High
+Priority,"Assalam o Alaikum, meri walida ko zehar kha liya hai aur oxygen khatam hai. aap se guzarish hai ke jaldi hal karein. jazakAllah",Urgent,High
+Priority,"Hello sir! emergency mein mareez ko bistar nahi mila hamare mohalle mein. jazakAllah, yeh sab ek hi ilaqe ki baat hai.",Urgent,High
+Priority,"Aadab, block B main 3 din sy kachi sarak par dhool ky wajah se saans lene mein masla hy. aap k bht shukriyah, hm sab is baat par ittefaq karte hein.",Medium,Low
+Priority,"ek bachay ko cancer ka ilaaj chal raha hai, jabke emergency mein koi doctor mojood nahi, iska status kya hai?",High,Urgent
+Priority,"X-ray machine kharab hai aur bahar se karwana parta hai, kya is ki ittila pehle di ja chuki hai",Medium,High
+Priority,"Mere dost ko seene mn shadeed dard hai aur paseena aa raha hy, lekin emergency mein koi daktar mojood nahin. kia koi helpline number hy?",Urgent,High
+Priority,"school ki building mein aag lag gayi hamari colony mein, yeh sab ek hi ilaqe ki baat hai, is baray mein aap se rabta kiya hai.",Urgent,Low
+Priority,"School ki building mein aag lag gayi hamare area mein, mohalle ke baqi log bhi yehi keh rahe hain, yeh sab ek hi ilaqe ki baat hai.",Urgent,Low
+Priority,"Respected sir, operation ke liye teen mahine ka waqt diya gya hai. aap ky madad ka intezar rahega, jazakAllah, is baray me aap sy rabta kiya hai.",High,Low
+Priority,"X-ray machine kharab hai aur bahar se karwana parta hai hamare mohalle mein, aap ka waqt dene ka shukriya, pehle bhi is ka zikr kiya ja chuka hai",Medium,High
+Priority,"Respected sir, gande pany se bacho ko typhoid ho gaya he. aap ky madad k intezar rahega, Allah aap ko khush rakhe.",Urgent,High
+Priority,"kya aap bata sakte hain ke meri beti ko saanp ne kaat liya hai, jabke test machine kharab hai, to kis se rabta karun?",Urgent,High
+Priority,"yeh masla hy ke gande pany se bachon ko typhoid ho gya he. is ka koi khayal nahi kar rha, yeh ittila aap ko dena zaroori tha",Urgent,High
+Priority,"hamare area me staff mareezon se bohat bura sulook karta he, kis department ko batana chahiye, pehle bhi is k zikr kiya ja chuka hai.",Medium,High
+Priority,"staff mareezon se bohat bura sulook karta hai, is ki complaint ka tracking number kahan se milega?",Medium,High
+Priority,"Hello sir! x-ray machine kharb he aor bahar sy karwana parta he. jazakAllah, pehle bhi is ka zikr kiya ja chuka hai, is baray mein aap se rabta kiya hai.",Medium,Low
+Priority,"Mohalla number 3 mein kai mahino sy school ke bahar nashe wale ghoomte hain, hum sab is baat par ittefaq karte hn, pehle bhi is k zikr kiya ja chuka he.",Urgent,Low
+Priority,"transformer se bohat tez awaaz aa rahi hai. koi sunne wala nahi, baqi tafseel aap ke pas mojood hai.",High,Medium
+Priority,"gali number 5 main bijlee baar baar aati jaati hai, kia is ki ittila pehle di ja chuki hai, aas paas ke log bhi dekh rahe hn.",Medium,High
+Priority,"Hello sir, bazaar ke qareeb safai wale hafte mein sirf ek baar aate hain. aap se guzarish hai ke jaldi hal karein. Allah aap ko jaza de.",Low,High
+Priority,"mere dost ko shadeed khoon beh rha hai, magar dr ilaj sy inkar kar rha he. kya koi helpline number hy, aas paas ke lug bhi dekh rahe hn",Urgent,High
+Priority,"block B mein gande pani se bachon ko typhoid ho gaya hai, is par kab tak amal hoga, yeh sab ek hi ilaqe ki baat hai",Urgent,High
+Priority,"ghalat dawai dene sy mareez behosh ho gya! jald az jald hal karein, yeh ittila aap ko dena zaroori tha, hum sab is baat par ittefaq karte hain.",Urgent,Low
+Priority,"hamare mohalle mein gande pani sy bacho ko typhoid ho gaya hy, iska status kia hy, hum sab is baat par ittefaq karte hn.",Urgent,High
+Priority,"Hamare gaon main pany ki supply hafte se band hy. kya koi helpline number hy, is baray main aap se rabta kiya hy, baqi tafseel aap ke pas mojood hai.",High,Low
+Priority,"pani ki motor chalane ke liye bijli nahi hai! fori action lein, baqi tafseel aap ke pas mojood hai, is baray mein aap se rabta kiya hai.",High,Low
+Priority,"operation ke liye teen mahine ka waqt diya gaya hai! jaldi kuch karein, pehle bhi is ka zikr kiya ja chuka hai",High,Low
+Priority,"Janab-e-aali, mujhe ye batana tha ke pany ki supply hafte se bnd hai. boht shukriyah, aas paas ke log bhi dekh rahe hain",High,Low
+Priority,"school ke bahar bacho ko agwa karne ki koshish hui hamare gaon main, boht shukriya, yeh ittila aap ko dena zaroori tha, yeh sab ek hi ilaqe ky baat hai.",Urgent,Low
+Priority,"2 din se pani nahi aa raha! is ka foran hal nikalein, mohalle ke baqi log bhi yehi keh rahe hain, pehle bhi is ka zikr kiya ja chuka hai.",High,Low

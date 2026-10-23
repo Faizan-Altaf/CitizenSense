@@ -1,0 +1,10 @@
+{
+    "task": "sentiment_classification",
+    "model": "TF-IDF + Logistic Regression",
+    "validation_samples": 1007,
+    "accuracy": 0.9860973187686196,
+    "macro_precision": 0.9852322970744023,
+    "macro_recall": 0.9862784898917138,
+    "macro_f1": 0.985704912172238,
+    "weighted_f1": 0.9861366046740365
+}

@@ -1,0 +1,159 @@
+text,category,group_id,predicted_category,correct
+"bohat shukriyah, bjli k masla hal ho gaya hy, mohalle ke baqi lug bhi yehi keh rahe hein, aas paas ke lug bhi dekh rahe hein.",Electricity,EL_R10,Health,False
+"hospital ke qareeb pany ky supply bnd hai or mariz pareshan hein, boht shukriya, baqi tafseel aap ke pas mojood hai, mohalle ke baqi lug bhi yehi keh rahe hein.",Water Supply,WS_U3,Health,False
+"hamare ilaqe mein free uniform mil gaya. bohat acha kaam kiya, is baray mein aap se rabta kiya hai, yeh sab ek hi ilaqe ki baat hai",Education,ED_R6,Health,False
+hamari colony mein yeh masla hai ke bus stop ka shed purana ho gaya hai. is ka koi khayal nahi kar raha.,Roads / Infrastructure,RD_L6,Water Supply,False
+"bohat shukriya, machine theek ho gayi hai, baqi tafseel aap ke pas mojood hai, mohalle ke baqi log bhi yehi keh rahe hain, pehle bhi is ka zikr kiya ja chuka hai",Health,HL_R8,Electricity,False
+"behtareen kaam, hamrai colony mein aap ki team ne hospital ka masla hal kar diya hai",Health,HL_R11,Roads / Infrastructure,False
+"sarak par bijli ke khambe ke ird gird gaddha ban gaya hai, pichle kuch dinon se yeh jaari hai. koi sunne wala nahi.",Roads / Infrastructure,RD_H9,Electricity,False
+"Hamare sector mein sarak par bijli ke khambe ke ird gird gaddha ban gaya hai, kis department ko batana chahiye, is baray mein aap se rabta kiya hai.",Roads / Infrastructure,RD_H9,Electricity,False
+gali number 5 mein kal raat se nal se mitti mila pani aa raha hai. koi sunne wala nahi,Water Supply,WS_H11,Sanitation,False
+"school mein bijli ka khula taar hai aur bache haath laga rahe hain, kya is ki ittila pehle di ja chuki hai, aas paas ke log bhi dekh rahe hain.",Education,ED_U15,Electricity,False
+"kya aap bata sakte hain ke hamare mohalle mein karant lagne se ek shakhs ki maut ho gayi, to kis se rabta karun?",Electricity,EL_U5,Water Supply,False
+"behtareen kaam, hamare gaon mein nal ki marammat ho gayi hai, yeh sab ek hi ilaqe ki baat hai.",Water Supply,WS_R9,Roads / Infrastructure,False
+"Traffic signal chal gya hai, shukriya, pehle bhi is k zikr kiya ja chuka hy, is baray mein aap se rabta kiya hai, yeh ittila aap ko dena zaroori tha.",Roads / Infrastructure,RD_R5,Education,False
+"Shukriya, mohalla number 3 mein aap ki team ne hospital ka masla hal kar diya hai, baqi tafseel aap ke pas mojood hai",Health,HL_R11,Roads / Infrastructure,False
+"shukriya, hamari gali mein nal ki marammat ho gayi hai, pehle bhi is ka zikr kiya ja chuka hai.",Water Supply,WS_R9,Roads / Infrastructure,False
+"Janab-e-aali, karant lagne se ek shakhs ki maut ho gayi. aap se guzarish hai ke jaldi hal karein, jazakAllah, yeh ittila aap ko dena zaroori tha.",Electricity,EL_U5,Water Supply,False
+"hamare sector mein aaj subah se naye pani connection ka form nahi mil raha. hum tang aa chuke hain, baqi tafseel aap ke pas mojood hai",Water Supply,WS_L8,Health,False
+"transformer phat gaya aur log zakhmi hue. hum tang aa chuke hain, aas paas ke log bhi dekh rahe hain.",Electricity,EL_U8,Water Supply,False
+"ab aap ki team ne skool k masla hal kar diya hai, hm aap ke mashkoor hain.",Education,ED_R11,Roads / Infrastructure,False
+"mohalla number 3 mein tanker ka intezar roz karna parta hai, ye shikayat kahan darj karwani hai, aas paas ke log bhi dekh rahe hain.",Water Supply,WS_M10,Health,False
+"hamare sector mein transformer phat gaya aur log zakhmi hue, is par kab tak amal hoga, is baray mein aap se rabta kiya hai.",Electricity,EL_U8,Water Supply,False
+"Aadab, hamari gali mein bus stop ka shed purana ho gaya hai. bara-e-karam jaldi dekh lein. Allah aap ko khush rakhe.",Roads / Infrastructure,RD_L6,Sanitation,False
+"kia aap bata sakte hain ke block B mn pani mein halki si badbu he, to kis sy rabta karun?",Water Supply,WS_M9,Sanitation,False
+"Assalam o Alaikum, admission ki last date kya hai? aap ka bohat shukriya",Education,SF_ED_0,Water Supply,False
+"Shukriya, aap ki team ne skool k masla hal kar diya hai, yeh ittila aap ko dena zaroori tha",Education,ED_R11,Roads / Infrastructure,False
+"karant lagne se ek shakhs ky maut ho gayi, ye shikayat kahan darj karwani hai",Electricity,EL_U5,Water Supply,False
+"kya aap bata sakte hain ke masjid ke saamne sarak par bijli ke khambe ke ird gird gaddha ban gaya hai, to kis se rabta karun?",Roads / Infrastructure,RD_H9,Electricity,False
+"gali number 5 mein mahine se bjli na hone ki wajah se dukaan band hai, kab tak aisa chalega, mohalle ke baqi log bhi yehi keh rahe hein.",Electricity,EL_H4,Education,False
+"nal ki marammat ho gyi he. sab ne bohat acha kaam kiya, hm khush hain, yeh ittila aap ko dena zaroori tha.",Water Supply,WS_R9,Roads / Infrastructure,False
+"Aadab, hamare gaon mein 2 din se road ke gadhe mein pani or andhera hai aur raat ko gaari ulat gyi. Allah aap ko jaza de.",Roads / Infrastructure,RD_U17,Water Supply,False
+bazaar ke qareeb yeh masla hai ke bus stop ka shed purana ho gaya hai. shikayat ke bawajood koi nahi aaya.,Roads / Infrastructure,RD_L6,Education,False
+"aap ki team ne pani ka masla hal kar diya hai. sab ne bohat acha kaam kiya, hum khush hain.",Water Supply,WS_R11,Roads / Infrastructure,False
+"hamare ilaqe me kaafi arse se ilaaj na milne se ek bachey ki maut ho gyi, pehle bhi is ka zikr kiya ja chuka hai",Health,HL_U9,Sanitation,False
+"hamari gali mein short circuit sy ghr main aag lagte lagte bachi, is par kb tak amal hoga, hm sab is baat par ittefaq karte hain.",Electricity,EL_U3,Sanitation,False
+"bohat shukriya, nal ki marammat ho gayi hai, yeh ittila aap ko dena zaroori tha",Water Supply,WS_R9,Roads / Infrastructure,False
+"transformer phat gaya aur log zakhmi hue! fori action lein, pehle bhi is ka zikr kiya ja chuka hai, baqi tafseel aap ke pas mojood hai.",Electricity,EL_U8,Water Supply,False
+"Assalam o Alaikum, bazaar ke qareeb 3 din se transformer phat gaya aur log zakhmi hue. aap ka waqt dene ka shukriya.",Electricity,EL_U8,Water Supply,False
+"hamare mohalle mn aap ky team ne paani k masla hal kar diya he, aap ki mehnat k shukria, yeh sab ek hi ilaqe ki baat hai",Water Supply,WS_R11,Electricity,False
+"Traffic signal chal gaya hai, shukriya, yeh sab ek hi ilaqe ki baat hai, is baray mein aap se rabta kiya hai.",Roads / Infrastructure,RD_R5,Water Supply,False
+"Road par bijli ke khambe ke ird gird gaddha ban gaya hai. kya koi helpline number he, mohalle ke baqi lug bhi yehi keh rahe hein.",Roads / Infrastructure,RD_H9,Electricity,False
+Hamare sector mein school mein bijli ka khula taar hai aur bache haath laga rahe hain. kya koi helpline number hai?,Education,ED_U15,Electricity,False
+"block b mein mahine se pul ka hissa tootne wala hai. is ka koi khayal nahi kar raha, is baray mein aap se rabta kiya hai",Roads / Infrastructure,RD_U2,Health,False
+School mein bijli ka khula taar hai aur bache haath laga rahe hain! jaldi kuch karein.,Education,ED_U15,Electricity,False
+"Bohat shukriya, traffic signal chal gaya hai, yeh sab ek hi ilaqe ki baat hai, pehle bhi is ka zikr kiya ja chuka hai.",Roads / Infrastructure,RD_R5,Education,False
+hamari gali main karant lagne sy ek shakhs ki maut ho gyi. jaldi kuch karein.,Electricity,EL_U5,Water Supply,False
+"behtareen kaam, hamare area mein machine theek ho gayi hai, yeh ittila aap ko dena zaroori tha, aas paas ke log bhi dekh rahe hain.",Health,HL_R8,Electricity,False
+"karant lagne sy ek shakhs ki maut ho gyi hamare area mn, jazakAllah, is baray main aap se rabta kiya hai",Electricity,EL_U5,Water Supply,False
+"kya aap bata sakte hn ke gali number 5 mein karant lagne se ek shakhs ky maut ho gyi, to kis se rabta karun?",Electricity,EL_U5,Sanitation,False
+Bazaar ke qareeb mahine se school mein bijli ka khula taar hai aur bache haath laga rahe hain.,Education,ED_U15,Electricity,False
+"Block B mein kai mahino se school mein bijli ka khula taar hai aur bache haath laga rahe hain, iska status kya hai, yeh sab ek hi ilaqe ki baat hai.",Education,ED_U15,Electricity,False
+"Bjli na hone ky wajah se dukaan bnd hai, kya is ki ittila pehle di ja chuki hai, baqi tafseel aap ke pas mojood hai.",Electricity,EL_H4,Education,False
+"Bohat shukriya, aap ki team ne hospiatl ka masla hal kar diya hai, mohalle ke baqi log bhi yehi keh rahe hain, is baray mein aap se rabta kiya hai.",Health,HL_R11,Roads / Infrastructure,False
+"Mohalla number 3 mein aap ki team ne school ka masla hal kar diya hai, aap ki mehnat ka shukriya",Education,ED_R11,Roads / Infrastructure,False
+"hamare mohalle mein free uniform mil gaya, aap ki mehnat ka shukriya, yeh ittila aap ko dena zraoori tha, mohalle ke baqi log bhi yehi keh rahe hain",Education,ED_R6,Health,False
+"Bahut shukriya, aap ki team ne hospital k masla hal kar diya hy, is baray mein aap sy rabta kiya he.",Health,HL_R11,Roads / Infrastructure,False
+"hamare sector mein exam ke dino mn bilji nhi hoti, bahut pareshni hai, aas paas ke lug bhi dekh rahe hain.",Electricity,EL_H9,Health,False
+"hamare sector main pul k hissa tootne wala hai. kia koi helpline number hy, pehle bhi is ka zikr kiya ja chuka hai.",Roads / Infrastructure,RD_U2,Health,False
+Hamare sector me yeh masla he ke hospital mein bijlee nahi or operation ruk gya hy. koi sunne wala nai,Electricity,EL_U7,Health,False
+dengue ke mareez bohat hain aur wards bhare hue hain,Health,S_HL_8,Sanitation,False
+"Dear sir, hamare sector mein tanker ka intezar roz karna parta hai. aap se guzarish hai ke jaldi hal karein. aap ka bohat shukriya.",Water Supply,WS_M10,Health,False
+"machine theek ho gyi hai. sab ne bohat acha kaam kiya, hum khush hain",Health,HL_R8,Electricity,False
+"Assalam o Alaikum, bazaar ke qareeb ilaaj na milne se ek bachay ki maut ho gayi. meherbani karke jaldi madad karein. aap ka bohat shukriya.",Health,HL_U9,Sanitation,False
+"Free uniform mil gya, shukriya, mohalle ke baqi lug bhi yehi keh rahe hein, hum sab is baat par ittefaq karte hain.",Education,ED_R6,Health,False
+"Mohalla number 3 mein machine theek ho gyi hy, aap ki mehnat k shukriya, yeh sab ek hi ilaqe ki baat hai.",Health,HL_R8,Electricity,False
+"shukriya, bazaar ke qareeb traffic signal chal gya hai, yeh sab ek hi ilaqe ki baat he, aas paas ke log bhi dekh rahe hein.",Roads / Infrastructure,RD_R5,Education,False
+"kya aap bata sakte hain ke bazaar ke qareeb transformer phat gaya aur log zakhmi hue, to kis se rabta karun",Electricity,EL_U8,Water Supply,False
+"sarak par bijli ke khambe ke ird gird gaddha ban gaya he, aap ki meherbani hogi, is baray mn aap sy rabta kiya he, pehle bhi is k zikr kiya ja chuka hy.",Roads / Infrastructure,RD_H9,Electricity,False
+"sarak par bijli ke khambe ke ird gird gaddha ban gaya hai, Allah aap ko jaza de",Roads / Infrastructure,RD_H9,Electricity,False
+"ab aap ki team ne paani k masla hal kar diya he, hm aap ke mashkoor hain, yeh ittila aap ko dena zaroori tha",Water Supply,WS_R11,Electricity,False
+"Hamare area mein aap ki team ne hospitla ka masla hal kar diya hai, aap ki mehnat ka shukriya.",Health,HL_R11,Roads / Infrastructure,False
+Hamare muhalle main aaj subah sy bjli na hone ky wajah se dukaan bnd hai. aaj subah sy yeh masla hy.,Electricity,EL_H4,Education,False
+"Janab-e-aali! bus stop ka shed purana ho gaya hai. aap ka bohat shukriya, pehle bhi is ka zikr kiya ja chuka hai, is baray mein aap se rabta kiya hai.",Roads / Infrastructure,RD_L6,Health,False
+"paani ka rang halka peela hy, is par kb tak amal hoga, aas paas ke log bhi dekh rahe hein, yeh sab ek hi ilaqe ky baat hai.",Water Supply,WS_M5,Electricity,False
+"Mohalla number 3 mein aap ki team ne haspatal k masla hal kar diya he, aap ky mehnat ka shukriyah, hum sab is baat par ittefaq karte hain.",Health,HL_R11,Roads / Infrastructure,False
+"shukriya, block B mein machine theek ho gayi hai, yeh sab ek hi ilaqe ki baat hai, is baray mein aap se rabta kiya hai.",Health,HL_R8,Electricity,False
+"Karant lagne se ek shakhs ki maut ho gayi masjid ke saamne, yeh ittila aap ko dena zaroori tha, is baray mein aap se rabta kiya hai.",Electricity,EL_U5,Water Supply,False
+"transformer phat gaya aur log zakhmi hue, kis department ko batana chahiye, aas paas ke log bhi dekh rahe hain, mohalle ke baqi log bhi yehi keh rahe hain",Electricity,EL_U8,Water Supply,False
+"hamare ilaqe main paani ke meter ky reading galat aati hai. kya koi helpline number hai, is baray mein aap sy rabta kiya hai.",Water Supply,WS_M6,Electricity,False
+"sadak ki marammat mukammal ho gayi hy, shukriya, is baray mn aap se rabta kiya he, pehle bhi is k zikr kiya ja chuka hai.",Roads / Infrastructure,RD_R1,Sanitation,False
+"behtareen kaam, hamare gaon mein aap ki team ne school ka masla hal kar diya hai.",Education,ED_R11,Roads / Infrastructure,False
+"Aadab! skool mein peene ka pani nahi hai masjid ke saamne. aap k bohat shukriya, hum sab is baat par ittefaq karte hn",Education,ED_M7,Water Supply,False
+"hamare mohalle mein free uniform mil gaya, aap ki mehnat ka shukriya, hum sab is baat par ittefaq karte hain.",Education,ED_R6,Health,False
+"behtareen kaam, hamari colony mein free uniform mil gaya, baqi tafseel aap ke pas mojood hai",Education,ED_R6,Health,False
+"shukriya, gali number 5 mein traffic signal chal gaya hy, is baray mn aap sy rabta kiya hai",Roads / Infrastructure,RD_R5,Water Supply,False
+"Aap ki team ne paani k masla hal kar diya hai, shukriya, aas paas ke lug bhi dekh rahe hain.",Water Supply,WS_R11,Roads / Infrastructure,False
+"mahcine theek ho gayi hai, shukriya, pehle bhi is ka zikr kiya ja chuka hai, aas paas ke log bhi dekh rahe hain",Health,HL_R8,Education,False
+"Hello sir, mohalla number 3 mein transformer phat gaya aur log zakhmi hue. aap se guzarish hai ke jaldi hal karein. Allah aap ko jaza de",Electricity,EL_U8,Water Supply,False
+"behtareen kaam, traffic signal chal gaya hai, is baray mn aap sy rabta kiya hai, pehle bhi is ka zikr kiya ja chuka hai.",Roads / Infrastructure,RD_R5,Education,False
+"hamare gaon mein karant lagne se ek shakhs ki maut ho gayi, adhikari kuch nahi karte.",Electricity,EL_U5,Water Supply,False
+"Bjli na hone ky wajah se dukaan bnd hy bazaar ke qareeb, Allah aap ko jaza de, muhalle ke baqi lug bhi yehi keh rahe hain.",Electricity,EL_H4,Education,False
+"assalam o alaikum, high vlotage sy tv aur fridge jal gaye. aap k ehsan hoga agar yeh masla hal ho jaye. jazakallah",Electricity,EL_H8,Roads / Infrastructure,False
+"Assalam o Alaikum, gali number 5 mein school mein bijli ka khula taar hai aur bache haath laga rahe hain. bohat shukriya",Education,ED_U15,Electricity,False
+Salam! road ke gaddhe mein pani aur andhera hai aur raat ko gaari ulat gayi hamare mohalle mein. aap ka waqt dene ka shukriya,Roads / Infrastructure,RD_U17,Water Supply,False
+"Bijli na hone ky wajah sy dukaan bnd hai, is ky complaint k tracking number kahan se milega, pehle bhi is k zikr kiya ja chuka hai.",Electricity,EL_H4,Education,False
+"karant lagne se ek shakhs ki maut ho gayi. kya koi helpline number hai, yeh sab ek hi ilaqe ki baat hai, hum sab is baat par ittefaq karte hain",Electricity,EL_U5,Water Supply,False
+"Aadab, mujhe ye batana tha ke hamari gali mn naye bane road mn daraarein aa gyi hn. bht shukriya, baqi tafseel aap ke pas mojood hai",Roads / Infrastructure,RD_M13,Sanitation,False
+"park ke public toilets bohat ganday hein, kis department ko batana chahiye, pehle bhi is k zikr kiya ja chuka hai.",Sanitation,SN_M11,Health,False
+"Respected sir, mujhe ye batana tha ke block B me skool mein bijil ka khula taar he aur bache haath laga rahe hain. aap k waqt dene ka shukriyah",Education,ED_U15,Electricity,False
+"masjid ke saamne karant lagne se ek shakhs ky maut ho gayi. fori action lein, yeh ittila aap ko dena zaroori tha, mohalle ke baqi log bhi yehi keh rahe hain.",Electricity,EL_U5,Water Supply,False
+"Hamare area mein kai mahino se short circuit se ghar mein aag lagte lagte bachi, iska status kya hai?",Electricity,EL_U3,Sanitation,False
+"Respected sir, hamare muhalle mein traffic sginal 3 din se band he aor takrao ho rahe hn. aap ka ehsan hoga agar yeh masla hal ho jaye. Allah aap ko jaza de",Roads / Infrastructure,RD_H15,Water Supply,False
+"School mein bijli ka khula taar hai aur bache haath laga rahe hain. kab tak aisa chalega, hum sab is baat par ittefaq karte hain.",Education,ED_U15,Electricity,False
+"short circuit sy ghar mein aag lagte lagte bachi hamari gali mein, aap ka boht shukriya, hum sab is baat par ittefaq karte hain.",Electricity,EL_U3,Sanitation,False
+"Kya aap bata sakte hain ke ilaaj na milne se ek bachay ki maut ho gayi, to kis se rabta karun",Health,HL_U9,Sanitation,False
+"pani mein halki si badbu hai, is ki complaint ka tracking number kahan se milega, hum sab is baat par ittefaq karte hain, pehle bhi is ka zikr kiya ja chuka hai",Water Supply,WS_M9,Sanitation,False
+"hamare gaon mein nal ki marammat ho gayi hai. bohat acha kaam kiya, baqi tafseel aap ke pas mojood hai, is baray mein aap se rabta kiya hai.",Water Supply,WS_R9,Roads / Infrastructure,False
+"Sarak par bijli ke khambe ke ird gird gaddha ban gaya hai, is ki complaint ka tracking number kahan se milega?",Roads / Infrastructure,RD_H9,Electricity,False
+"bohat shukriya, haspatal ki safai behtar ho gayi hai, mohalay ke baqi lug bhi yehi keh rahe hn, yeh sab ek hi ilaqe ki baat hai",Health,HL_R4,Sanitation,False
+"bazaar ke qareeb traffic signal chal gaya hai, aap ki mehnat ka shukriya, pehle bhi is ka zikr kiya ja chuka hai.",Roads / Infrastructure,RD_R5,Water Supply,False
+"bohat shukriya, nal ki marammat ho gayi hai, aas paas ke log bhi dekh rahe hain, mohalle ke baqi log bhi yehi keh rahe hain.",Water Supply,WS_R9,Roads / Infrastructure,False
+"shukriyah, gali number 5 me daktar mil gaye hain, hm sab is baat par ittefaq karte hain",Health,HL_R0,Roads / Infrastructure,False
+"Hamare mohalle mein kal raat se park ke public toilets bohat ganday hain. kal raat se yeh haal hai, yeh ittila aap ko dena zaroori tha.",Sanitation,SN_M11,Electricity,False
+"Hamare mohalle me aap ki team ne pani k masla hal kar diya he, aap ky mehnat ka shukriya, yeh sab ek hi ilaqe ki baat hai.",Water Supply,WS_R11,Electricity,False
+"Assalam o Alaikum, hamare ilaqe mn bijlee na hone ki wajah sy dukaan bnd hai. aap sy guzarish hy ke jaldi hal karein. boht shukria.",Electricity,EL_H4,Education,False
+"gali number 5 mn aap ky team ne haspatal k masla hal kar diya hy, aap ky mehnat ka shukriya, mohalle ke baqi log bhi yehi keh rahe hein.",Health,HL_R11,Electricity,False
+"Masjid ke saamne transformer phat gya aor log zakhmi hue. yeh sab hafte se chal rha hai, yeh sab ek hi ilaqe ky baat hai.",Electricity,EL_U8,Water Supply,False
+"Assalam o Alaikum, bus stop k shed purana ho gya hai. Allah aap ko jaza de, mohalle ke baqi log bhi yehi keh rahe hain",Roads / Infrastructure,RD_L6,Health,False
+"hamari gali me bjli na hone ki wajah sy dukaan bnd hai, ye shikayat kahan darj karwani hai, mohalle ke baqi lug bhi yehi keh rahe hain.",Electricity,EL_H4,Education,False
+"mohalla number 3 mein bus stop ka shed purana ho gaya hai. kia koi helpline number hai, aas paas ke log bhi dekh rahe hain.",Roads / Infrastructure,RD_L6,Health,False
+"Hamare mohalle mein school mein bijli ka khula taar hai aur bache haath laga rahe hain. kal raat se yeh haal hai, is baray mein aap se rabta kiya hai",Education,ED_U15,Electricity,False
+"Janab-e-aali, hamare area mein kaafi arse sy karant lagne se ek shakhs ki maut ho gayi. aap ka waqt dene k shukriya.",Electricity,EL_U5,Water Supply,False
+"Respected sir, road ke gaddhe mein pani aur andhera hai aur raat ko gaari ulat gayi. meherbani karke jaldi madad karein. jazakAllah, is baray mein aap se rabta kiya hai",Roads / Infrastructure,RD_U17,Water Supply,False
+"machine theek ho gayi hai. sab ne bohat acha kaam kiya, hum khush hain, yeh ittila aap ko dena zaroori tha, baqi tafseel aap ke pas mojood hai.",Health,HL_R8,Electricity,False
+"Sarak par bijli ke khambe ke ird gird gaddha ban gya hai gali number 5 mein, aas paas ke lug bhi dekh rahe hein.",Roads / Infrastructure,RD_H9,Electricity,False
+"hamari gali mein traffic signal 3 dn se band hai aor takrao ho rahe hein. kya koi helpline number hy, is baray mn aap se rabta kiya he.",Roads / Infrastructure,RD_H15,Sanitation,False
+"hamari colony mein tanker ka intezar roz karna parta hai, ye shikayat kahan darj karwani hai?",Water Supply,WS_M10,Health,False
+"Hello sir, hamare area mn high voltage sy tv aur fridge jal gaye. aap ki mehrbani hogi, hm sab is baat par ittefaq karte hn.",Electricity,EL_H8,Roads / Infrastructure,False
+"kya aap bata sakte hain ke school mein bijli ka khula taar hai aur bache haath laga rahe hain, to kis se rabta karun",Education,ED_U15,Electricity,False
+"Dear sir, school mein bijli ka khula taar hai aur bache haath laga rahe hain. aap ki madad ka intezar rahega. aap ki meherbani hogi",Education,ED_U15,Electricity,False
+"hamari gali mein school mein bijli ka khula taar hai aur bache haath laga rahe hain, ye shikayat kahan darj karwani hai?",Education,ED_U15,Electricity,False
+"gali number 5 main nal ki marammat ho gayi hai, aap ki mehnat k shukriya, pehle bhi is ka zikr kiya ja chuka he.",Water Supply,WS_R9,Roads / Infrastructure,False
+"bht shukriya, aap ky team ne pani k masla hal kar diya hai, pehle bhi is k zikr kiya ja chuka he.",Water Supply,WS_R11,Electricity,False
+Hamare area mein school mein bijli ka khula taar hai aur bache haath laga rahe hain. yeh masla 3 din se hai,Education,ED_U15,Electricity,False
+"Aadab, hamari colony mein bijli na hone ki wajah se dukaan band hai. aap se guzarish hai ke jaldi hal karein. jazakAllah, hum sab is baat par ittefaq karte hain.",Electricity,EL_H4,Education,False
+"Dear sir, mujhe ye batana tha ke masjid ke saamne ilaaj na milne se ek bachay ki maut ho gayi. aap ki meherbani hogi",Health,HL_U9,Sanitation,False
+"Gali number 5 mn machine theek ho gyi hai. bohat acha kaam kiya, aas paas ke log bhi dekh rahe hn.",Health,HL_R8,Electricity,False
+hamari gali mein yeh masla hai ke ilaaj na milne se ek bachay ki maut ho gayi. hum tang aa chuke hain.,Health,HL_U9,Sanitation,False
+"short circuit sy ghr mn aag lagte lagte bachi! jaldi kuch karein, mohalle ke baqi lug bhi yehi keh rahe hn, aas paas ke log bhi dekh rahe hn.",Electricity,EL_U3,Sanitation,False
+"hamare mohalay mein 2 din sy peene ke pani mein keeray hn aor bache bimar ho gaye hn. koi sunne wala nai, yeh sab ek hi ilaqe ky baat he.",Water Supply,WS_U0,Education,False
+"behtareen kaam, bazaar ke qareeb nal ki marammat ho gyi hai, baqi tafseel aap ke pas mojood he",Water Supply,WS_R9,Roads / Infrastructure,False
+Mohalla number 3 me kaafi arse se short circuit sy ghr mn aag lagte algte bachi. hum tang aa chuke hain,Electricity,EL_U3,Sanitation,False
+"machine theek ho gayi hai, shukriya, pehle bhi is ka zikr kiya ja chuka hai, baqi tafseel aap ke pas mojood hai.",Health,HL_R8,Electricity,False
+"hamari gali mein tanker ka intezar roz karna parta hai. yeh sab hafte se chal raha hai, hum sab is baat par ittefaq karte hain",Water Supply,WS_M10,Sanitation,False
+"karant lagne se ek shakhs ki maut ho gayi hamare gaon mein, aap ki meherbani hogi, yeh sab ek hi ilaqe ki baat hai",Electricity,EL_U5,Water Supply,False
+"bohat shukriya, free uniform mil gaya, aas paas ke log bhi dekh rahe hain, yeh ittila aap ko dena zaroori tha.",Education,ED_R6,Health,False
+"Salam, mohalla number 3 me mahine se karant lagne se ek shakhs ki maut ho gayi. bohat shukria, baqi tafseel aap ke pas mojood hai.",Electricity,EL_U5,Water Supply,False
+"Mohalla number 3 mein aap ki team ne pani k masla hal kar diya hai. bahut acha kaam kiya, baqi tafseel aap ke pas mojood he.",Water Supply,WS_R11,Roads / Infrastructure,False
+"Respected sir, school mein bijli ka khula taar hai aur bache haath laga rahe hain. aap ki madad ka intezar rahega. jazakAllah.",Education,ED_U15,Electricity,False
+"Hello sir, mujhe ye batana tha ke bazaar ke qareeb paani mein halki si badbu hai. jazakAllah, pehle bhi is ka zikr kiya ja chuka hai",Water Supply,WS_M9,Sanitation,False
+"mohalla number 3 mein karant lagne se ek shakhs ki maut ho gyi. kya koi helpline number hy, yeh sab ek hi ilaqe ki baat hy",Electricity,EL_U5,Water Supply,False
+"Aadab, kal raat sy pul k hsisa tootne wala hai. aap ka waqt dene k shukriya.",Roads / Infrastructure,RD_U2,Electricity,False
+"Respected sir, hamare ilaqe mein transformer phat gaya aur log zakhmi hue. aap ki madad ka intezar rahega. aap ki meherbani hogi, pehle bhi is ka zikr kiya ja chuka hai.",Electricity,EL_U8,Water Supply,False
+"free uniform mil gaya. sab ne bohat acha kaam kiya, hum khush hain, baqi tafseel aap ke pas mojood hai, yeh sab ek hi ilaqe ki baat hai.",Education,ED_R6,Health,False
+"gali number 5 mein short circuit se ghar mein aag lagte lagte bachi. adhikari kuch nahi karte, yeh ittila aap ko dena zaroori tha.",Electricity,EL_U3,Sanitation,False
+"Hamari gali mn bjli na hone ky wajah sy dukaan bnd hai, kis department ko batana chahiye, is baray mein aap se rabta kiya he, hm sab is baat par ittefaq karte hain.",Electricity,EL_H4,Education,False
+"Ab aap ki team ne scholo k masla hal kar diya hy, hum aap ke mashkoor hain, aas paas ke lug bhi dekh rahe hn.",Education,ED_R11,Roads / Infrastructure,False
+"Dear sir, hamare area mein school mein bijli k khula taar hy aor bache haath laga rahe hn. aap ka ehsan hoga agar yeh masla hal ho jaye. aap k bohat shukriya.",Education,ED_U15,Electricity,False
+"hafte se bus stop ka shed purana ho gaya hai. ye bilkul bardasht nahi, pehle bhi is ka zikr kiya ja chuka hai.",Roads / Infrastructure,RD_L6,Health,False
